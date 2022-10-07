@@ -1,2 +1,2 @@
 # python-practice
-Collection of random python practice programs. 
+Collection of random python practice programs!
